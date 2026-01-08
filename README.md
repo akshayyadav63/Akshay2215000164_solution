@@ -28,8 +28,11 @@ The original tasks are preserved:
 Follow the steps below to run the project locally:
 
 git clone https://github.com/akshayyadav63/Akshay2215000164_solution
+
 cd Akshay2215000164_solution
+
 npm install
+
 npm run dev
 
 
