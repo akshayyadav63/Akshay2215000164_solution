@@ -1,5 +1,6 @@
 ## Live Deployment
 [View Live Demo](https://akshay2215000164-solution.onrender.com/)
+[GitHUb](https://github.com/akshayyadav63/Akshay2215000164_solution)
 # Lynkit Clone Redesign
 
 This project is a React-based frontend application developed as part of an assignment. It includes a responsive design, video background, transparent navigation bar, and functional dashboard and trip view sections available via the “Products” menu.
@@ -22,5 +23,16 @@ The original tasks are preserved:
 - **Montserrat Font**
 
 ## How to Run
-1. `npm install`
-2. `npm run dev`
+
+Follow the steps below to run the project locally:
+
+git clone https://github.com/akshayyadav63/Akshay2215000164_solution
+cd Akshay2215000164_solution
+npm install
+npm run dev
+
+
+
+   
+
+
