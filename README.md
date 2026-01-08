@@ -1,6 +1,8 @@
+## Live Deployment
+[View Live Demo](https://akshay2215000164-solution.onrender.com/)
 # Lynkit Clone Redesign
 
-This project is a React-based clone of the [Lynkit.in](https://www.lynkit.in/) website, featuring a responsive design, video background, and transparent navigation. It also includes the original dashboard and trip view tasks, accessible via the "Products" dropdown.
+This project is a React-based frontend application developed as part of an assignment. It includes a responsive design, video background, transparent navigation bar, and functional dashboard and trip view sections available via the “Products” menu.
 
 ## Project Overview
 
